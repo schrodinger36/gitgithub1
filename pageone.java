@@ -34,5 +34,6 @@ public class Anagram {
         }
 
         sc.close();
+        //adding a comment
     }
 }
