@@ -14,6 +14,7 @@ public class Charcount {
     public static void main(String[] args) {
         String str="appppppppppuaaaaaaaaaaazssssaqa";
         String visted="";
+        // added a comment 2
        
         for(int i=0;i<str.length();i++){
             char ch1=str.charAt(i);
