@@ -23,3 +23,4 @@ public class TwoSum {
         }
     }
 }
+//program is optimal.
